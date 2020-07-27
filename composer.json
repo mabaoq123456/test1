@@ -1,0 +1,17 @@
+{
+    "name": "mabaoq12/test3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mbq",
+            "email": "329673018@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mob\\aaa\\" : "./src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
