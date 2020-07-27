@@ -10,7 +10,11 @@
     "autoload": {
         "psr-4": {
             "mob\\aaa\\" : "./src/"
-        }
+        },
+        "files": [
+            "./src/common.php",
+            "./src/common1.php"
+        ]
     },
     "minimum-stability": "dev",
     "require": {}

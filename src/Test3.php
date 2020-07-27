@@ -12,6 +12,6 @@ class Test3
 {
     public static function test()
     {
-        return 'test';
+        return 'test444';
     }
 }
